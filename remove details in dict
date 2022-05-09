@@ -1,0 +1,4 @@
+myDictd={'jaanu':1,'reshma':2,'nagu':3,'sri':4}
+if 'mounika' in myDict: 
+    del myDict['mounika']
+print(myDict)
